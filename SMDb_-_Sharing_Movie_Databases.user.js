@@ -1,4 +1,4 @@
-﻿// ==UserScript==
+// ==UserScript==
 // @name           SMDb - Sharing Movie Databases
 // @namespace      www.surrealmoviez.info 
 // @description    Cross-site searching for IMDb, cinema communities and open trackers
@@ -444,14 +444,14 @@ var miniSites = [
     new MiniSite(
             'Rotten Tomatoes',
             'https://i.imgur.com/UcrFFwA.png',
-            'http://www.rottentomatoes.com/alias?type=imdbid&s=%q',
-            imdb.idNum
+            'https://www.rottentomatoes.com/search/?search=%q',
+            imdb.getTitle(false, true)
             ),
     new MiniSite(
             'TMDb',
             'https://i.imgur.com/75s3CmA.png',
             'http://www.themoviedb.org/search?query=%q',
-            imdb.id
+            imdb.getTitle(false, true)
             ),
     new MiniSite(
             'Cinemagia',
