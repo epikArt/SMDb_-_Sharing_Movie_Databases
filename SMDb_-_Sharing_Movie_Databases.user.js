@@ -14,122 +14,165 @@
 // @include        http://*.imdb.fr/title/tt*
 // @include        http://*.imdb.it/title/tt*
 // @include        http://*.imdb.pt/title/tt*
-// @connect        http://www.opensubtitles.org
-// @connect        http://www.subtitleseeker.com
-// @connect        http://www.rottentomatoes.com
-// @connect        http://www.themoviedb.org
-// @connect        http://www.cinemagia.ro
-// @connect        http://www.cinemarx.ro
-// @connect        http://www.filmaffinity.com
-// @connect        https://www.filmaffinity.com
-// @connect        http://www.movieposterdb.com
-// @connect        http://www.allmovie.com
-// @connect        http://letterboxd.com
-// @connect        http://www.titrari.ro
-// @connect        http://subs.ro
-// @connect        https://subtitrari.regielive.ro
-// @connect        http://*.regielive.ro
-// @connect        http://www.subtitrari-noi.ro
-// @connect        http://www.surrealmoviez.info
-// @connect        https://karagarga.in
-// @connect        https://karagarga.in
-// @connect        http://cinemageddon.net
-// @connect        http://cinematik.net
-// @connect        https://passthepopcorn.me
-// @connect        https://*.passthepopcorn.me
-// @connect        http://www.iloveclassics.com
-// @connect        https://secret-cinema.pw
-// @connect        http://www.gormogon.com
-// @connect        https://cinemaz.to
-// @connect        http://filelist.ro
-// @connect        https://filelist.ro
-// @connect        http://flro.org
-// @connect        http://www.icetorrent.org
-// @connect        http://www.myxz.org
-// @connect        http://www.u-torrents.ro
-// @connect        https://www.torrentsmd.com
-// @connect        http://www.elitezones.ro
-// @connect        http://goldies.in
-// @connect        http://retroflix.net
-// @connect        http://oldtcity.xyz
-// @connect        https://avistaz.to
-// @connect        https://privatehd.to
-// @connect        https://hdbits.org
-// @connect        https://scenehd.org
-// @connect        https://hdts-announce.ru
-// @connect        https://hd-torrents.org
-// @connect        https://hdclub.org
-// @connect        http://elitehd.org
-// @connect        https://elitehd.org/
-// @connect        https://revolutiontt.me
-// @connect        https://iptorrents.com
+// @connect        https://en.wikipedia.org/
+// @connect        https://www.youtube.com/
+// @connect        http://www.opensubtitles.org/
+// @connect        https://subtitle-index.org/
+// @connect        https://www.rottentomatoes.com/
+// @connect        http://www.themoviedb.org/
+// @connect        http://www.cinemagia.ro/
+// @connect        http://www.cinemarx.ro/
+// @connect        https://www.filmaffinity.com/
+// @connect        http://www.metacritic.com/
+// @connect        https://www.listal.com/
+// @connect        https://www.moviemistakes.com/
+// @connect        http://www.movieposterdb.com/
+// @connect        http://www.allmovie.com/
+// @connect        http://letterboxd.com/
+// @connect        http://www.opensubtitles.org/
+// @connect        http://www.titrari.ro/
+// @connect        http://subs.ro/
+// @connect        https://subtitrari.regielive.ro/
+// @connect        http://www.subtitrari-noi.ro/
+// @connect        http://goldies.in/
+// @connect        http://filelist.ro/
+// @connect        http://www.icetorrent.org/
+// @connect        http://rodvd.net/
+// @connect        http://retroflix.net/
+// @connect        https://retroflix.net/
+// @connect        http://oldtcity.xyz/
+// @connect        https://oldtcity.xyz/
+// @connect        https://www.myxz.eu/
+// @connect        https://datascene.net/
+// @connect        https://scenefz.me/
+// @connect        https://www.torrentsmd.com/
+// @connect        http://www.elitezones.ro/
+// @connect        https://www.elitezones.ro/
+// @connect        http://zamunda.net/
+// @connect        https://zamunda.net/
+// @connect        http://zelka.org/
+// @connect        https://zelka.org/
+// @connect        https://www.iptorrents.com/
 // @connect        https://www.iptorrents.ru
 // @connect        https://www.iptorrents.eu
 // @connect        https://www.iptorrents.me
 // @connect        https://www.iptorrents.us
 // @connect        https://*.iptorrents.com
-// @connect        https://ipt.rocks
-// @connect        https://tp.m-team.cc
-// @connect        https://totheglory.im
-// @connect        https://hdsky.me
-// @connect        http://hdhome.org
-// @connect        https://hdtime.org
-// @connect        https://chdbits.co
-// @connect        http://ourbits.club
-// @connect        http://et8.org
-// @connect        https://hdchina.org
-// @connect        http://uhdbits.org
-// @connect        https://www.acid-lounge.org.uk
-// @connect        http://hdme.eu
-// @connect        https://bluebird-hd.org
-// @connect        https://www.funfile.org
-// @connect        https://pretome.info
-// @connect        https://danishbits.org
-// @connect        https://www.torrentbytes.net
-// @connect        https://www.bit-hdtv.com
-// @connect        http://www.td.af
-// @connect        https://www.td.af
-// @connect        https://www.torrentday.com
-// @connect        http://kinozal.tv
-// @connect        http://www.rutor.info
-// @connect        https://nnm-club.name
-// @connect        http://rutracker.org
-// @connect        http://zamunda.net
-// @connect        http://zelka.org
-// @connect        https://rarbg.to
-// @connect        https://ncore.cc
-// @connect        http://torrentvault.org
-// @connect        https://torrentvault.org
-// @connect        https://hd-space.org
-// @connect        http://rodvd.net
-// @connect        http://newinsane.info
-// @connect        http://www.alluc.ee
-// @connect        https://beyond-hd.me
-// @connect        https://www.hd-bits.com
-// @connect        http://www.mkvcage.com
-// @connect        http://datascene.net
-// @connect        https://thepiratebay.org
-// @connect        https://thepiratebay.se
-// @connect        https://zooqle.com
-// @connect        http://www.myduckisdead.org
-// @connect        http://rarelust.com
-// @connect        https://www.morethan.tv
-// @connect        https://www.xspeeds.eu
-// @connect        https://layer13.net
-// @connect        https://btdig.com
-// @connect        https://btdb.to
-// @connect        https://hd4free.xyz
+// @connect        https://www.torrentday.com/
+// @connect        https://www.xspeeds.eu/
+// @connect        https://immortalseed.me/
+// @connect        https://revolutiontt.me/
+// @connect        https://avistaz.to/
+// @connect        http://www.iloveclassics.com/
+// @connect        https://www.iloveclassics.com/
+// @connect        https://karagarga.in/
+// @connect        http://cinemageddon.net/
+// @connect        https://cinemageddon.net/
+// @connect        https://www.cinematik.net/
+// @connect        https://cinemaz.to/
+// @connect        https://privatehd.to/
+// @connect        https://scenehd.org/
+// @connect        https://hdbits.org/
+// @connect        https://hdts-announce.ru/
+// @connect        https://hd-torrents.org
+// @connect        https://tp.m-team.cc/
+// @connect        https://chdbits.co/
+// @connect        http://ourbits.club/
+// @connect        https://ourbits.club/
+// @connect        https://hdtime.org/
+// @connect        http://et8.org/
+// @connect        https://et8.org/
+// @connect        https://totheglory.im/
+// @connect        https://hdsky.me/
+// @connect        http://hdhome.org/
+// @connect        https://hdhome.org/
+// @connect        https://hdchina.org/
+// @connect        http://uhdbits.org/
+// @connect        https://uhdbits.org/
+// @connect        https://bj-share.info/
+// @connect        https://www.acid-lounge.org.uk/
+// @connect        http://hdme.eu/
+// @connect        https://hdme.eu/
+// @connect        https://bluebird-hd.org/
+// @connect        https://www.bit-hdtv.com/
+// @connect        https://beyond-hd.me/
+// @connect        https://hd-space.org/
+// @connect        https://www.hd-bits.com/
+// @connect        https://hdf.world/
+// @connect        https://secret-cinema.pw/
+// @connect        https://passthepopcorn.me/
+// @connect        https://anthelion.me
+// @connect        https://danishbits.org/
+// @connect        https://www.morethan.tv/
+// @connect        https://nebulance.io/
+// @connect        https://tv-vault.me/
+// @connect        https://www.funfile.org/
+// @connect        https://pretome.info/
+// @connect        https://www.torrentbytes.net/
+// @connect        https://ncore.cc/
+// @connect        https://www.bitvaulttorrent.com/
+// @connect        https://horrorcharnel.org/
+// @connect        https://ccfbits.org/
+// @connect        https://blutopia.xyz/
+// @connect        https://dev.newinsane.info/
+// @connect        https://wigornot.com/f/
+// @connect        http://watchsomuch.info/
+// @connect        https://yts.ag/
+// @connect        https://www.yify-torrent.org/
+// @connect        https://archive.org/
+// @connect        http://www.mkvcage.com/
+// @connect        https://www.mkvcage.com/
+// @connect        http://www.surrealmoviez.info/
+// @connect        https://www.surrealmoviez.info/
+// @connect        http://www.myduckisdead.org/
+// @connect        https://www.myduckisdead.org/
+// @connect        http://rarelust.com/
+// @connect        https://rarelust.com/
+// @connect        http://rarefilm.net/
+// @connect        https://rarefilm.net/
+// @connect        http://worldscinema.org/
+// @connect        https://worldscinema.org/
+// @connect        http://www.vintageclassix.com/
+// @connect        https://www.vintageclassix.com/
+// @connect        https://imtdb.net/
+// @connect        http://movieparadise.org/
+// @connect        https://movieparadise.org/
+// @connect        http://retrovision.tv/
+// @connect        https://retrovision.tv/
+// @connect        http://kinozal.tv/
+// @connect        https://kinozal.tv/
+// @connect        http://www.rutor.info/
+// @connect        http://nnm-club.me/
+// @connect        http://rutracker.org/
+// @connect        https://rarbg.to/
+// @connect        https://arenabg.com/
+// @connect        https://thepiratebay.org/
+// @connect        https://btdig.com/
+// @connect        https://btdb.to/
+// @connect        https://www.ettv.tv/
+// @connect        http://glodls.to/
+// @connect        https://zooqle.com/
+// @connect        http://www.niigu.com/
+// @connect        https://magnets.dissidence.ovh/
+// @connect        https://torrents.me/
+// @connect        https://torrentproject2.se/
+// @connect        https://www.idope.cc/
+// @connect        https://torrentz2.eu/
+// @connect        https://subtitrari.regielive.ro
+// @connect        http://*.regielive.ro
+// @connect        https://*.passthepopcorn.me
 // @connect        https://*.githubusercontent.com
 // @connect        http://*.googleusercontent.com
 // @connect        http://img.n-e-s.info
 // @connect        http://*.imgur.com
 // @connect        https://*.imgur.com
-// @connect        http://*.zamunda.se
-// @connect        https://youtube.com
 // @connect        https://*.youtube.com
 // @connect        https://www.upload.ee
 // @connect        http://www.zippyshare.com
 // @connect        http://localhost
+// @connect 
+// @connect 
+// @connect 
 // @connect        *
 // @require        http://code.jquery.com/jquery-1.11.1.min.js
 // @grant          GM_xmlhttpRequest
@@ -418,6 +461,12 @@ function Site(name, abbreviation, icon, query, resultsPath, noResultsPath, login
 
 var miniSites = [
     new MiniSite(
+            'Wikipedia (en)',
+            'https://i.imgur.com/ENMLzcA.png',
+			'https://en.wikipedia.org/w/index.php?search=%q&title=Special%3ASearch&profile=default&fulltext=1',
+            imdb.getTitle(false, true)
+            ),
+    new MiniSite(
             'Youtube',
             'https://i.imgur.com/9oZFpi3.png',
             'https://www.youtube.com/results?search_query=%q',
@@ -428,12 +477,6 @@ var miniSites = [
             'https://i.imgur.com/HIvJW8U.png',
             'http://www.opensubtitles.org/en/search/imdbid-%q',
             imdb.idNum
-            ),
-    new MiniSite(
-            'SubtitleSeeker',
-            'https://i.imgur.com/2yoLMbR.png',
-            'http://www.subtitleseeker.com/search/TITLES/%q',
-            imdb.getTitle(false, true)
             ),
     new MiniSite(
             'SUBTITLE-INDEX',
@@ -449,7 +492,7 @@ var miniSites = [
             ),
     new MiniSite(
             'TMDb',
-            'https://i.imgur.com/75s3CmA.png',
+            'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABU0lEQVQ4y2NgGDTAzMyMiZWVVZGDg8OWjY0tG8juYGFh6QNhIL8NiDPZ2dltgOIKfn5+TCia+fj4DJmYmC4xMjJ+BnL/48NANZ+Aas8B9WiBNXNycqoDBX8hKfoH5D8B4mtAfAGKQeynaAZ9B+pVYgA6cQFMEGjyO6CgCdAbQlpaWqwwF2poaLBycXEJA+UsgWq+wtQDvTOFgZmZ+SVMAKjIilBYAdW4wtQD9d5hAJr4A+qkb0ATVQgZANSkAfMyUO8HkMAbmInAkLYmZADQe85ILrgLCoMVSAHzgoeHB6c3uLm57YFq3sLUA/XOBJmoDQpR5BAGmvwaKLkd6KJlIAxk70B2KczLoBiERaU+UMEFQmkAzYAHQBfxoThRQEBAExiQ5UAblwMNPAQMpFMgDGQfBIqBXFMASqGgxATE74CulyAr2QM1ygCTdTIwSrkHPhMCAEsOaD3NT/fGAAAAAElFTkSuQmCC',
             'http://www.themoviedb.org/search?query=%q',
             imdb.getTitle(false, true)
             ),
@@ -470,6 +513,24 @@ var miniSites = [
             'https://i.imgur.com/pcZ9csv.png',
             'https://www.filmaffinity.com/en/search.php?stext=%q&stype=title',
             imdb.getTitle(true, true)
+            ),
+	new MiniSite(
+            'metacritic',
+            'http://www.metacritic.com/favicon.ico',
+            'http://www.metacritic.com/search/all/%q/results',
+            imdb.getTitle(false, true)
+            ),
+	new MiniSite(
+            'listal',
+            'https://i.imgur.com/uJ5xsdL.png',
+            'https://www.listal.com/search/%q',
+            imdb.getTitle(false, true)
+            ),
+	new MiniSite(
+            'Movie Mistakes',
+            'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACO0lEQVQ4y22RS2sTURTHs3EhdCkIUlyJoHUhqEs3bv0GRRCk4CdwoVLSZNI2aTptg8iUlFa70NlIqIvmMS0znUknhaS+IfThg8SaTJpMRoKmdiad47mZjJ2xc+HPvfd/z/2dc8/1+XDk83Axm4UWqoLa5/nKIPE3NuA27jXiS9JRTRSVmz6vsb4OQ2trALZ4Xi0QX5Ig5fRTqa8PPQGYYcENOIBcrnAG1yWnv7JSfe0JEEUoOAOJVlf3Iui33QD1+4nLm5vQh4Ff7CCO03Srip+qNesmkQVtgdf7z+Fh3crQBlFsPiNrQTBxDZBO17B5pmInSCTYgf/ffwkDDXKYydQBO385mQRYXra0tFR8guc7PG/tFxfLD4aH4QrLfuzrAmQZbtn0TEZpBYMwEAgAEI2MAMRiygImeceyAH6/5ZGZYbaGehUYjwRBx5INBJTejI7CPRJki6Lan2T58C1NH3sEMDW1F+8CBKHRz3GVGxxXvS7Luf7xcXjpBASDRjORUO84PaJwuJH3/NKxMShbQWZXgUAHpqfbrFV+xwE+3JEk+vQJAPagV7quowyyDoUOOgRA01XN7gOeKXNz78+6Ls/Pw1VHhnIk8id3XLYJ8fiHx46n/Z6ZKV1wAaJRuO8AfJ6d1QbtjLg/YpjseWyy2QPg0+rXXICJCXhhXwiFtCLxKOrfb/zY3fWdwh5t20kY5ttdFyAc1tIU1ahQVLNK09tJq6pfTylK3Y9Gt16R/eRk6znG1NCrxWJF/19hVVzTzfSONgAAAABJRU5ErkJggg==',
+            'https://www.moviemistakes.com/search.php?text=%q',
+            imdb.getTitle(false, true)
             ),
     new MiniSite(
             'MoviePosterDB',
@@ -497,7 +558,7 @@ var sites = [
             'OSub',
             'https://i.imgur.com/HIvJW8U.png',
             'http://www.opensubtitles.org/ro/search/sublanguageid-rum/imdbid-%q',
-            'th.head:nth-child(4)',
+            'th.head:nth-child(6)',
             'div.msg:nth-child(15)',
             'div.msg:nth-child(6)',
             imdb.idNum
@@ -541,46 +602,6 @@ var sites = [
             '.Nu exista inregistrari!',
             null,
             imdb.idNum
-            ),			
-    new Site(
-            'Surrealmoviez',
-            'SMz',
-            'https://i.imgur.com/lRPJSbf.png',
-            'http://www.surrealmoviez.info/search.php?stext=%q&search=Search',
-            '.main-bg .main-body > a',
-            '.main-body > center:contains(0 Movies found matching search criteria.)',
-            '.side-body [name=loginform]',
-            imdb.id
-            ),
-    new Site(
-            'Karagarga',
-            'KG',
-            'https://i.imgur.com/8oxqlvo.png',
-            'https://karagarga.in/browse.php?search=%q&search_type=imdb',
-            '#browse .oddrow',
-            '.outer center > h2:contains(No torrents found)',
-            '.outer > h1:contains(Not logged in!)',
-            imdb.id
-            ),
-    new Site(
-            'Cinemageddon',
-            'CG',
-            'https://i.imgur.com/hw7lH77.png',
-            'http://cinemageddon.net/browse.php?search=%q&proj=0&descr=1',
-            '.torrenttable .prim, .torrenttable .torrenttable_usersnatched',
-            '.outer form h2:contains(Nothing found!)',
-            'input[value="Log in!"]',
-            imdb.id
-            ),
-    new Site(
-            'Cinematik',
-            'Tik',
-            'https://i.imgur.com/rhM2cxE.png',
-            'https://www.cinematik.net/browse.php?search=%q&cat=0&incldead=1&sort=1&type=asc&srchdtls=0',
-            '.outer table .brolin',
-            '.outer h2:contains(Nothing found!)',
-            '#usrlogin',
-            imdb.getTitle(true, true)
             ),
 	new Site(
             'Goldies',
@@ -592,47 +613,6 @@ var sites = [
             'dt:contains(Parola:)',
             imdb.id
             ),
-    new Site(
-            'CINEMAZ',
-            'euT',
-            'http://s2.googleusercontent.com/s2/favicons?domain_url=cinemaz.to',
-            'https://cinemaz.to/movies?search=%q&genres=&countries=&languages=&casts=',
-            '.image-box',
-            '.lead',
-            'ul.nav:nth-child(2) > li:nth-child(2) > a:nth-child(1)',
-            imdb.id
-            ),
-    new Site(
-            'Secret-Cinema',
-            'SC',
-            'https://i.imgur.com/Ob5Y12B.png',
-            'https://secret-cinema.pw/torrents.php?order_by=relevance&searchstr=%q',
-            'td.sign:nth-child(8) > a:nth-child(1) > img:nth-child(1)',
-            'h2:contains(Your search did not match anything.)',
-            '#loginform > table > tbody > tr:nth-child(3) > td:nth-child(3) > input',
-            imdb.getTitle(true, true)
-            ),
-	new Site(
-            'I Love Classics',
-            'ILC',
-            'https://i.imgur.com/fofv0RS.png',
-            'http://www.iloveclassics.com/browse.php?cat=0&incldead=1&search=%q&searchin=2',
-            '.NB_fmmain > #hover-over',
-            '.table_col1 > td:contains(Try again with a refined search string.)',
-            '#topdrag:contains(Log On To I Love Classics)',
-            imdb.id
-            ),
-    new Site(
-            'Gormogon',
-            'GG',
-            'https://i.imgur.com/bMh5utj.png',
-            'http://www.gormogon.com/index.php?page=torrents&search=%q&category=0&options=1&active=0',
-            '.lista > a > img[alt=torrent]',
-            '.lista .header > a:contains(AddDate)', // No real way to know, using a selector to determine that we are at least in a search result page
-            '.b-content td:contains(not authorized to view the Torrents!)',
-            imdb.id
-            ),
-
     new Site(
             'Filelist',
             'FL',
@@ -651,6 +631,36 @@ var sites = [
             '.torrenttable .tabrow',
             'h2:contains(Nothing here!)',
             '.login > input:nth-child(1)',
+            imdb.id
+            ),
+	new Site(
+            'RoDVD-Net',
+            'RODVD',
+            'https://i.imgur.com/EPx2G4a.png',
+            'http://rodvd.net/browse.php?key=9&search=%q',
+            'td.middletabelheadmain:nth-child(2) > font:nth-child(1) > b:nth-child(1)',
+            'h2:contains(Nothing found!)',
+            '#password',
+            imdb.id
+            ),
+	new Site(
+            'RetroFlix',
+            'RF',
+            'http://s2.googleusercontent.com/s2/favicons?domain_url=retroflix.net',
+            'http://retroflix.net/torrents.php?incldead=1&spstate=0&inclbookmarked=0&search=%q&search_area=4&search_mode=0',
+            '.seeders',
+            'table.main:nth-child(3) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1)',
+            '#nav_block > form:nth-child(6) > table > tbody > tr:nth-child(9) > td > input:nth-child(1)',
+            imdb.idNum
+            ),			
+    new Site(
+            'TorrentsCity',
+            'TCity',
+            'https://i.imgur.com/Q9ATfat.png',
+            'http://oldtcity.xyz/browse.php?search=%q&blah=1&cat=0&incldead=1&submit=Search!',
+            '.browse > td:nth-child(1)',
+            'h2:contains(Nothing found!)',
+            '#form-container > div > a:nth-child(3)',
             imdb.id
             ),
     new Site(
@@ -702,13 +712,13 @@ var sites = [
             'h2:contains(Nothing found!)',
             'input.btn:nth-child(1)',
             imdb.id
-            ),
+            ),	
 	new Site(
             'Zamunda',
             'ZMD',
             'https://i.imgur.com/P29TJLL.png',
             'http://zamunda.net/bananas?search=%q&incldead=&field=name',
-            'a.buttonPro:nth-child(6)',
+            'td.colhead:nth-child(8) > a:nth-child(1) > u:nth-child(1)',
             'h2:contains(Sorry, nothing found)',
             '.test > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) > input:nth-child(1)',
             imdb.getTitle(true, true)
@@ -723,24 +733,64 @@ var sites = [
             '.test > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) > input:nth-child(1)',
             imdb.getTitle(true, true)
             ),
+	new Site(
+            'IPTorrents',
+            'IPT',
+            'https://i.imgur.com/j3aUH7h.png',
+            'https://www.iptorrents.com/t?q=%q&qf=all#torrents&btn=Search',
+            '#torrents > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(4) > a:nth-child(1) > i:nth-child(1)',
+            'h3:contains(Suggestions)',
+            '.password',
+            imdb.id
+            ),
     new Site(
-            'RetroFlix',
-            'RF',
-            'http://s2.googleusercontent.com/s2/favicons?domain_url=retroflix.net',
-            'http://retroflix.net/torrents.php?incldead=1&spstate=0&inclbookmarked=0&search=%q&search_area=4&search_mode=0',
-            '.seeders',
-            'table.main:nth-child(3) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1) > table:nth-child(2) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(1)',
-            '#nav_block > form:nth-child(6) > table > tbody > tr:nth-child(9) > td > input:nth-child(1)',
-            imdb.idNum
-            ),			
+            'TorrentDay',
+            'TD',
+            'http://s2.googleusercontent.com/s2/favicons?domain_url=www.torrentday.com',
+            'https://www.torrentday.com/t?q=%q&qf=adv',
+            '#torrentTable > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(3) > a:nth-child(1) > img:nth-child(1)',
+            '#torrentTable > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) > h1:nth-child(1)',
+            '.password',
+            imdb.id
+            ),
     new Site(
-            'TorrentsCity',
-            'TCity',
-            'https://i.imgur.com/Q9ATfat.png',
-            'http://oldtcity.xyz/browse.php?search=%q&blah=1&cat=0&incldead=1&submit=Search!',
-            '.browse > td:nth-child(1)',
+            'XSpeeds',
+            'XS',
+            'https://i.imgur.com/lKFNxOC.png',
+            'https://www.xspeeds.eu/browse.php?category=0&do=search&include_dead_torrents=yes&keywords=%q&search_type=t_description',
+            '.unsortable2',
+            'b:contains(Nothing Found)',
+            '.left_side > form:nth-child(3) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > input:nth-child(1)',
+            imdb.id
+            ),
+    new Site(
+            'Immortal Seed',
+            'IS',
+            'https://i.imgur.com/6jgVzW9.png',
+            'https://immortalseed.me/browse.php?do=search&keywords=%q&search_type=t_genre&category=0&include_dead_torrents=yes',
+            '.unsortable2',
+            'b:contains(Nothing Found)',
+            '.left_side > form:nth-child(3) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > input:nth-child(1)',
+            imdb.id
+            ),
+	new Site(
+            'RevolutionTT',
+            'RevTT',
+            'https://i.imgur.com/NQxkWJs.png',
+            'https://revolutiontt.me/browse.php?search=%q&cat=0&incldead=1&btn=Search',
+            '.br_right',
             'h2:contains(Nothing found!)',
-            '#form-container > div > a:nth-child(3)',
+            '#username',
+            imdb.id
+            ),
+	new Site(
+            'Acid-Lounge',
+            'ACID',
+            'https://i.imgur.com/kRjpw2O.png',
+            'https://www.acid-lounge.org.uk/browse.php?search=%q&search_type=desc&searchcat=0&submit=Search!',
+            '.torrent_table_actions',
+            'h2:contains(Nothing found!)',
+            'span.menuItem:nth-child(2) > a:nth-child(1)',
             imdb.id
             ),
     new Site(
@@ -752,6 +802,56 @@ var sites = [
             '.lead',
             '#password',
             imdb.name
+            ),
+	new Site(
+            'I Love Classics',
+            'ILC',
+            'https://i.imgur.com/fofv0RS.png',
+            'http://www.iloveclassics.com/browse.php?cat=0&incldead=1&search=%q&searchin=2',
+            '.NB_fmmain > #hover-over',
+            '.table_col1 > td:contains(Try again with a refined search string.)',
+            '#topdrag:contains(Log On To I Love Classics)',
+            imdb.id
+            ),			
+    new Site(
+            'Karagarga',
+            'KG',
+            'https://i.imgur.com/8oxqlvo.png',
+            'https://karagarga.in/browse.php?search=%q&search_type=imdb',
+            '#browse .oddrow',
+            '.outer center > h2:contains(No torrents found)',
+            '.outer > h1:contains(Not logged in!)',
+            imdb.id
+            ),
+    new Site(
+            'Cinemageddon',
+            'CG',
+            'https://i.imgur.com/hw7lH77.png',
+            'http://cinemageddon.net/browse.php?search=%q&proj=0&descr=1',
+            '.torrenttable .prim, .torrenttable .torrenttable_usersnatched',
+            '.outer form h2:contains(Nothing found!)',
+            'input[value="Log in!"]',
+            imdb.id
+            ),
+    new Site(
+            'Cinematik',
+            'Tik',
+            'https://i.imgur.com/rhM2cxE.png',
+            'https://www.cinematik.net/browse.php?search=%q&cat=0&incldead=1&sort=1&type=asc&srchdtls=0',
+            '.outer table .brolin',
+            '.outer h2:contains(Nothing found!)',
+            '#usrlogin',
+            imdb.getTitle(true, true)
+            ),
+    new Site(
+            'CINEMAZ',
+            'euT',
+            'http://s2.googleusercontent.com/s2/favicons?domain_url=cinemaz.to',
+            'https://cinemaz.to/movies?search=%q&genres=&countries=&languages=&casts=',
+            '.image-box',
+            '.lead',
+            'ul.nav:nth-child(2) > li:nth-child(2) > a:nth-child(1)',
+            imdb.id
             ),
     new Site(
             'PrivateHD',
@@ -882,7 +982,17 @@ var sites = [
             'p:contains(Nothing found! Try again with a refined search string.)',
             'input.btnl:nth-child(1)',
             imdb.id
-            ),			
+            ),
+	new Site(
+            'CCFBits',
+            'CCFB',
+            'https://i.imgur.com/w46tc1p.png',
+            'https://ccfbits.org/browse.php?search=%q&cat=0&incldead=1',
+            'h1:contains(tt)',
+            'h1:contains(Nothing Found)',
+            null,
+            imdb.getTitle(true, true)
+            ),				
     new Site(
             'UHDBits',
             'UHD',
@@ -891,26 +1001,6 @@ var sites = [
             '.group_torrent',
             'h2:contains(Your search did not match anything.)',
             '.submit',
-            imdb.id
-            ),
-	new Site(
-            'Bj Share',
-            'BjS',
-            'https://bj-share.info/favicon.ico',
-            'https://bj-share.info/torrents.php?searchstr=%q',
-            '.group_torrent',
-            'h2:contains(Your search did not match anything.)',
-            '.submit',
-            imdb.getTitle(true, true)
-            ),
-    new Site(
-            'Acid-Lounge',
-            'ACID',
-            'https://i.imgur.com/kRjpw2O.png',
-            'https://www.acid-lounge.org.uk/browse.php?search=%q&search_type=desc&searchcat=0&submit=Search!',
-            '.torrent_table_actions',
-            'h2:contains(Nothing found!)',
-            'span.menuItem:nth-child(2) > a:nth-child(1)',
             imdb.id
             ),
     new Site(
@@ -974,6 +1064,36 @@ var sites = [
             imdb.getTitle(true, true)
             ),
 	new Site(
+            'HD-Forever',
+            'HD-F',
+            'https://hdf.world/favicon.ico',
+            'https://hdf.world/torrents.php?order_by=relevance&searchstr=%q',
+            'td.sign:nth-child(8) > a:nth-child(1) > img:nth-child(1)',
+            'h2:contains(Aucun fichier trouvé.)',
+            '#loginform > table > tbody > tr:nth-child(3) > td:nth-child(3) > input',
+            imdb.getTitle(true, true)
+            ),
+	new Site(
+            'Bj-Share',
+            'bjs',
+            'https://bj-share.info/favicon.ico',
+            'https://bj-share.info/torrents.php?searchstr=%q',
+            '.group_torrent',
+            'h2:contains(Sem resultados.)',
+            '.submit',
+            imdb.getTitle(true, true)
+            ),
+	new Site(
+            'Secret Cinema',
+            'SC',
+            'https://i.imgur.com/Ob5Y12B.png',
+            'https://secret-cinema.pw/torrents.php?order_by=relevance&searchstr=%q',
+            'tr.torrent:nth-child(2)',
+            'h2:contains(Your search did not match anything.)',
+            '.submit',
+            imdb.getTitle(true, true)
+            ),
+	new Site(
             'PassThePopcorn',
             'PtP',
             'https://i.imgur.com/Q0AqC1B.png',
@@ -984,36 +1104,16 @@ var sites = [
             imdb.id
             ),
 	new Site(
-            'Tehconnection',
-            'TC',
-            'https://i.imgur.com/U0q5xGR.png',
-            'https://tehconnection.me/torrents.php?order_by=relevance&searchstr=%q',
+            'Anthelion',
+            'ANT',
+            'https://i.imgur.com/KcVU3BJ.png',
+            'https://anthelion.me/torrents.php?order_by=relevance&searchstr=%q',
             '.group_torrent',
             'h2:contains(Your search did not match anything.)',
             '.submit',
-            imdb.getTitle(true, true)
-            ),
-    new Site(
-            'FunFile',
-            'FF',
-            'https://i.imgur.com/NQlNidn.png',
-            'https://www.funfile.org/browse.php?search=%q&cat=0&incldead=1&s_desc=1&showspam=0',
-            'td.row3:nth-child(3) > a:nth-child(1) > img:nth-child(1)',
-            'h2:contains(Nothing found!)',
-            'table.mainframe:nth-child(3) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) > form:nth-child(2) > div:nth-child(4) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(4) > td:nth-child(1) > a:nth-child(1)',
             imdb.id
             ),
-    new Site(
-            'PreToMe',
-            'PTM',
-            'https://i.imgur.com/iIceEBw.png',
-            'https://pretome.info/browse.php?search=%q&tags=&st=1&sd=1&tf=any&cat[]=19&cat[]=7',
-            'table.mainframe:nth-child(2) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) > div:nth-child(2) > b:nth-child(2)',
-            'h2:contains(No .torrents fit this filter criteria)',
-            '#txtContent > h2:nth-child(1) > a:nth-child(1)',
-            imdb.id
-            ),
-    new Site(
+	new Site(
             'DanishBits',
             'DBTS',
             'http://s2.googleusercontent.com/s2/favicons?domain_url=danishbits.org',
@@ -1021,56 +1121,6 @@ var sites = [
             'tr.torrent:nth-child(3) > td:nth-child(2) > span:nth-child(1) > div:nth-child(2) > a:nth-child(2) > span:nth-child(1)',
             '.alertbar > a:nth-child(1) > font:nth-child(1)',
             '#loginform',
-            imdb.id
-            ),
-	new Site(
-            'RevolutionTT',
-            'RevTT',
-            'https://i.imgur.com/NQxkWJs.png',
-            'https://revolutiontt.me/browse.php?search=%q&cat=0&incldead=1&btn=Search',
-            '.br_right',
-            'h2:contains(Nothing found!)',
-            '#username',
-            imdb.id
-            ),
-    new Site(
-            'TorrentBytes',
-            'TBYS',
-            'https://i.imgur.com/7U14RQ5.png',
-            'https://www.torrentbytes.net/browse.php?search=%q&cat=0&sc=2',
-            'td.colhead:nth-child(9) > a:nth-child(1)',
-            'h2:contains(Nothing found!)',
-            '#content > div:nth-child(1) > form:nth-child(3)',
-            imdb.id
-            ),
-	new Site(
-            'nCore',
-            'NCR',
-            'https://i.imgur.com/Hwd3o6L.png',
-            'https://ncore.cc/torrents.php?kivalasztott_tipus%5B%5D=xvid&kivalasztott_tipus%5B%5D=dvd&kivalasztott_tipus%5B%5D=dvd9&kivalasztott_tipus%5B%5D=hd&miben=name&mire=%q&nyit_filmek_resz=true&submit.x=36&submit.y=19&tags=&tipus=kivalasztottak_kozott',
-            'div.box_torrent:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)',
-            '.lista_mini_error',
-            '#login > form:nth-child(1) > table:nth-child(3) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) > input:nth-child(1)',
-            imdb.getTitle(true, true)
-            ),
-	new Site(
-            'IPTorrents',
-            'IPT',
-            'https://i.imgur.com/j3aUH7h.png',
-            'https://www.iptorrents.com/t?q=%q&qf=all#torrents&btn=Search',
-            '#torrents > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(4) > a:nth-child(1) > i:nth-child(1)',
-            'h3:contains(Suggestions)',
-            '.password',
-            imdb.id
-            ),
-    new Site(
-            'TorrentDay',
-            'TD',
-            'http://s2.googleusercontent.com/s2/favicons?domain_url=www.torrentday.com',
-            'https://www.torrentday.com/t?q=%q&qf=adv',
-            '#torrentTable > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(3) > a:nth-child(1) > img:nth-child(1)',
-            '#torrentTable > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(1) > h1:nth-child(1)',
-            '.password',
             imdb.id
             ),
 	new Site(
@@ -1099,29 +1149,49 @@ var sites = [
             'https://i.imgur.com/b9FsFZk.png',
             'https://tv-vault.me/torrents.php?searchstr=%q',
             'td.sign:nth-child(8) > a:nth-child(1) > img:nth-child(1)',
-            'h2:contains(Your search did not match anything.)',
+            'h2:contains(Nothing found)',
             '#password',
             imdb.getTitle(true, true)
             ),
     new Site(
-            'XSpeeds',
-            'XS',
-            'https://i.imgur.com/lKFNxOC.png',
-            'https://www.xspeeds.eu/browse.php?category=0&do=search&include_dead_torrents=yes&keywords=%q&search_type=t_description',
-            '.unsortable2',
-            'b:contains(Nothing Found)',
-            '.left_side > form:nth-child(3) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > input:nth-child(1)',
+            'FunFile',
+            'FF',
+            'https://i.imgur.com/NQlNidn.png',
+            'https://www.funfile.org/browse.php?search=%q&cat=0&incldead=1&s_desc=1&showspam=0',
+            'td.row3:nth-child(3) > a:nth-child(1) > img:nth-child(1)',
+            'h2:contains(Nothing found!)',
+            'table.mainframe:nth-child(3) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) > form:nth-child(2) > div:nth-child(4) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(4) > td:nth-child(1) > a:nth-child(1)',
             imdb.id
             ),
     new Site(
-            'Immortal Seed',
-            'IS',
-            'https://i.imgur.com/6jgVzW9.png',
-            'https://immortalseed.me/browse.php?do=search&keywords=%q&search_type=t_genre&category=0&include_dead_torrents=yes',
-            '.unsortable2',
-            'b:contains(Nothing Found)',
-            '.left_side > form:nth-child(3) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(3) > td:nth-child(2) > input:nth-child(1)',
+            'PreToMe',
+            'PTM',
+            'https://i.imgur.com/iIceEBw.png',
+            'https://pretome.info/browse.php?search=%q&tags=&st=1&sd=1&tf=any&cat[]=19&cat[]=7',
+            'table.mainframe:nth-child(2) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) > div:nth-child(2) > b:nth-child(2)',
+            'h2:contains(No .torrents fit this filter criteria)',
+            '#txtContent > h2:nth-child(1) > a:nth-child(1)',
             imdb.id
+            ),
+    new Site(
+            'TorrentBytes',
+            'TBYS',
+            'https://i.imgur.com/7U14RQ5.png',
+            'https://www.torrentbytes.net/browse.php?search=%q&cat=0&sc=2',
+            'td.colhead:nth-child(9) > a:nth-child(1)',
+            'h2:contains(Nothing found!)',
+            '#content > div:nth-child(1) > form:nth-child(3)',
+            imdb.id
+            ),
+	new Site(
+            'nCore',
+            'NCR',
+            'https://i.imgur.com/Hwd3o6L.png',
+            'https://ncore.cc/torrents.php?kivalasztott_tipus%5B%5D=xvid&kivalasztott_tipus%5B%5D=dvd&kivalasztott_tipus%5B%5D=dvd9&kivalasztott_tipus%5B%5D=hd&miben=name&mire=%q&nyit_filmek_resz=true&submit.x=36&submit.y=19&tags=&tipus=kivalasztottak_kozott',
+            'div.box_torrent:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2)',
+            '.lista_mini_error',
+            '#login > form:nth-child(1) > table:nth-child(3) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2) > input:nth-child(1)',
+            imdb.getTitle(true, true)
             ),
 	new Site(
             'BitvaulTtorrent',
@@ -1129,20 +1199,20 @@ var sites = [
             'https://i.imgur.com/MAiMgV0.png',
             'https://www.bitvaulttorrent.com/browse.php?search=%q&cat=0&incldead=1&blah=0',
             'h1:contains(tt)',
-            'h1:contains(Nothing Found)',
+            'h1:contains(Nessun torrent trovato!)',
             null,
             imdb.getTitle(true, true)
-            ),		
-    new Site(
-            'CCFBits',
-            'CCFB',
-            'https://i.imgur.com/w46tc1p.png',
-            'https://ccfbits.org/browse.php?search=%q&cat=0&incldead=1',
+            ),	
+	new Site(
+            'The Horror Charnel',
+            'THC',
+            'https://i.imgur.com/mX8NtkK.png',
+            'https://horrorcharnel.org/catalogue.php?search=%q',
             'h1:contains(tt)',
             'h1:contains(Nothing Found)',
             null,
             imdb.getTitle(true, true)
-            ),	
+            ),			
 	new Site(
             'Blutopia',
             'B',
@@ -1152,37 +1222,7 @@ var sites = [
             'h2:contains( *No hits. Try adding an asterisk in you search phrase.)',
             null,
             imdb.getTitle(true, true)
-            ),		
-    new Site(
-            'HD-Forever',
-            'HD-F',
-            'https://hdf.world/favicon.ico',
-            'https://hdf.world/torrents.php?order_by=relevance&searchstr=%q',
-            'td.sign:nth-child(8) > a:nth-child(1) > img:nth-child(1)',
-            'h2:contains(Your search did not match anything.)',
-            '#loginform > table > tbody > tr:nth-child(3) > td:nth-child(3) > input',
-            imdb.getTitle(true, true)
-            ),	
-    new Site(
-            'x264',
-            'x264',
-            'https://i.imgur.com/b3Dt56A.png',
-            'https://x264.me/browse.php?search=%q&incldead=1&xtype=0&stype=0',
-            'td.sign:nth-child(8) > a:nth-child(1) > img:nth-child(1)',
-            'h2:contains(Your search did not match anything.)',
-            '#loginform > table > tbody > tr:nth-child(3) > td:nth-child(3) > input',
-            imdb.getTitle(true, true)
-            ),
-	new Site(
-            'RoDVD-Net',
-            'RODVD',
-            'https://i.imgur.com/EPx2G4a.png',
-            'http://rodvd.net/browse.php?key=9&search=%q',
-            'td.middletabelheadmain:nth-child(2) > font:nth-child(1) > b:nth-child(1)',
-            'h2:contains(Nothing found!)',
-            '#password',
-            imdb.id
-            ),
+            ),			
     new Site(
             'Insane Tracker',
             'iNSANE',
@@ -1204,14 +1244,14 @@ var sites = [
             imdb.getTitle(true, true)
             ),
 	new Site(
-            'Internet Archive',
-            'IA',
-            'https://i.imgur.com/HNM42H1.png',
-            'https://archive.org/search.php?query=%q&and[]=mediatype%3A%22movies%22',
-            '.entry-content',
-            '.entry-header > .entry-title:contains(Nothing Found)',
-            null,
-            imdb.getTitle(true, true)
+            'Surrealmoviez',
+            'SMz',
+            'https://i.imgur.com/lRPJSbf.png',
+            'http://www.surrealmoviez.info/search.php?stext=%q&search=Search',
+            '.main-bg .main-body > a',
+            '.main-body > center:contains(0 Movies found matching search criteria.)',
+            '.side-body [name=loginform]',
+            imdb.id
             ),
     new Site(
             'My Duck is Dead',
@@ -1233,57 +1273,47 @@ var sites = [
             null,
             imdb.id
             ),
-    new Site(
-            'Retrovision Classic Movies',
-            'RCM',
-            'https://i.imgur.com/xufhFh7.png',
-            'http://retrovision.tv/?s=%q',
-            '.entry-content',
+	new Site(
+            'Rare film',
+            'Rarefilm',
+            'http://s2.googleusercontent.com/s2/favicons?domain_url=rarefilm.net',
+            'http://rarefilm.net/?s=%q',
+			'.entry-content',
             '.entry-header > .entry-title:contains(Nothing Found)',
             null,
-            imdb.getTitle(true, true)
+            imdb.id
             ),
 	new Site(
-            'BtDig',
-            'BtDIG',
-            'https://i.imgur.com/iqwXx2z.png',
-            'https://btdig.com/search?order=0&q=%q',
-            null,
-            null,
-            null,
-            imdb.getTitle(true, true)
-            ),
-    new Site(
-            'BtDb',
-            'BtDB',
-            'http://s2.googleusercontent.com/s2/favicons?domain_url=btdb.to',
-            'https://btdb.to/q/%q/',
-            null,
-            null,
-            null,
-            imdb.getTitle(true, true)
-            ),
-	new Site(
-            'ETTV',
-            'ETTV',
-            'https://i.imgur.com/7fUyWN5.png',
-            'https://www.ettv.tv/torrents-search.php?search=%q&cat=0&incldead=1&lang=0',
-            '#resultitems .resblock > .clickable',
-            '#noresultextrasadvice',
-            null,
-            imdb.getTitle(true, true)
-            ),
-	new Site(
-            'GloTorrents',
-            'GT',
-            'https://i.imgur.com/pivRHeS.png',
-            'http://glodls.to/search_results.php?search=%q&incldead=Search',
+            'Cinema of the World',
+            'CinemaoftheWorld',
+			'https://i.imgur.com/Ho74iG3.png',
+            'http://worldscinema.org/?s=%q',
             'h1:contains(tt)',
             'h1:contains(Nothing Found)',
+			null,
+            imdb.id
+            ),
+	new Site(
+	        'Vintage Classix',
+			'VC',
+            'https://i.imgur.com/jg3ciy9.png',
+            'http://www.vintageclassix.com/search?q=tt%q',
+            '.postwrap',
+            '.status-msg-body:contains(No posts matching the query)',
             null,
-            imdb.getTitle(true, true)
+            imdb.idNum
+            ),
+	new Site(
+            'MovieParadise.com',
+			'MP',
+            'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABdElEQVQ4y33TyytEYRjH8eO6UdSMu2IxU4wFG7GUWymJUra2yl9hMyzcS9SUMllYoFhYsHDZUMTKpSxMCRtyFzZ8n+k3dZxm5tSn5rzP87znvTzjOJ5nKBqrxzQu8I0fXGEODU6qh2AxpvDrKtoQ+/2l2DxKvcUlWFXCHtqTfKAVO8qxScsTgSyMK7ACf5pV+rGu3Ank2mCdBmzP1UrMSFKch34M4FQ19Y4OzF7G0nzZVjmCa7RgWDWjFrzEEzrSTDCogld0oQ2POHZ04vcIpCiuwZsmOEHItooY3t0TBFVQiCga9b6r4n1UaqxWE7zYyzmetawADlRg19qn32fwuVbViQccOa7mmXR1YuKUb+0rqPJsK6x4OLFH7zXafR9qvMdTHLTDUyxkA5muq1yzllZiWfya/hf7EEmsON5IChRgS4FtNKu9s5FvvY8mLCvHcouS/Zkiriuzvp/FDDbxiQ8soCJdx3VjETeayNxhCb3Icdf8AfErxDzVutz8AAAAAElFTkSuQmCC',
+            'http://movieparadise.org/?s=%q',
+            'h1:contains(tt)',
+            'h1:contains(No results to show with)',
+            null,
+            imdb.id
             ),	
-			    new Site(
+	new Site(
             'KinozalTV',
             'KTB',
             'https://i.imgur.com/mWULhXL.png',
@@ -1323,13 +1353,23 @@ var sites = [
             'input[name=login_username]',
             imdb.getTitle(true, true)
             ),
-    new Site(
-            'Rarbg',
-            'RBG',
-            'https://i.imgur.com/0HTNoyT.png',
-            'https://rarbg.to/torrents.php?search=%q',
-            'td.header6:nth-child(4) > a:nth-child(1)',
-			null,
+	new Site(
+            'Zooqle',
+            'ZQ',
+            'http://s2.googleusercontent.com/s2/favicons?domain_url=zooqle.com',
+            'https://zooqle.com/search?q=%q+category%3AMovies',
+            '.table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1) > i:nth-child(1)',
+            'p.margin-top-10',
+            null,
+            imdb.getTitle(true, true)
+            ),
+	new Site(
+            'The Pirate Bay',
+            'TPB',
+            'https://i.imgur.com/If0wj1z.png',
+            'https://thepiratebay.cr/search/%q/0/7/0',
+            '.vertTh',
+            'h2:contains( *No hits. Try adding an asterisk in you search phrase.)',
             null,
             imdb.id
             ),
@@ -1343,33 +1383,132 @@ var sites = [
             null,
             imdb.id
             ),
-    new Site(
-            'Layer13',
-            'L13',
-            'https://i.imgur.com/ZwXqoTU.png',
-            'https://layer13.net/browse?q=%q+@section+X264',
-            '.table.table-hover>tbody>tr>td>b>a',
-            '.text-danger',
+	new Site(
+	        'IMTDb',
+            'IMTDb',
+            'https://i.imgur.com/9PAERnj.png',
+            'https://imtdb.org/search/node/%q',
+            '.entry-content',
+            '.entry-header > .entry-title:contains(Your search yielded no results)',
+			null,
+            imdb.id
+            ),
+	new Site(
+	        'WatchSoMuch',
+            'watchSOmuch',
+            'https://i.imgur.com/QNhZRku.png',
+            'http://watchsomuch.info/Movies/%q/',
+			'.entry-content',
+            '.entry-header > .entry-title:contains(No results Found!)',
+			null,
+            imdb.id
+            ),
+	new Site(
+	        'YTS',
+            'YTS',
+            'https://i.imgur.com/dfJFcbb.png',
+            'https://yts.ag/browse-movies/%q/all/all/0/latest',
+			'tr.gai:nth-child(2) > td:nth-child(2) > a:nth-child(1) > img:nth-child(1)',
             null,
             imdb.getTitle(true, true)
             ),
+    new Site(
+	        'YIFY',
+            'YIFY',
+            'https://i.imgur.com/F0Nr6IP.png',
+            'https://www.yify-torrent.org/search/%q/p-1/all/all/',
+			'td.header6:nth-child(4) > a:nth-child(1)',
+			null,
+            null,
+            imdb.getTitle(true, true)
+            ),
+    new Site(
+            'Rarbg',
+            'RAR',
+            'https://i.imgur.com/0HTNoyT.png',
+            'https://rarbg.to/torrents.php?search=%q/',
+            'td.header6:nth-child(3)> ul:nth-child(1) > li:nth-child(3) > a:nth-child(2) > i:nth-child(1)',
+			null,
+            null,
+            imdb.id
+            ),
 	new Site(
-            'The Pirate Bay',
-            'TPB',
-            'https://i.imgur.com/If0wj1z.png',
-            'https://thepiratebay.org/search/%q/0/7/0',
+            'Usabit',
+            'usabit',
+            'http://www.usabit.com/wp-content/themes/wpRafael/images/favicon.png',
+            'http://www.usabit.com/?s=%q',
             '.vertTh',
             'h2:contains( *No hits. Try adding an asterisk in you search phrase.)',
             null,
             imdb.id
             ),
+	new Site(
+            'ExtraTorrnt',
+            'ET',
+            'https://extratorrent.si/images/favicon.ico',
+            'https://extratorrent.si/search/?search=%q&new=1&x=45&y=15',
+            '.vertTh',
+            'h2:contains(total torrents found)',
+            null,
+            imdb.id
+            ),
+	new Site(
+			'1337x',
+			'1337x',
+            'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB20lEQVQ4y2NgGDTgSYRG8Ks0ywsv063PP0+3vvIoSqcYJvcoWs/xVaHHiVclPhdelfndeBar34JhwAN/OaUnUTqXnyeb/X+WYvH/aYLxvcehqtL3g1WYnqVYrn5d7PX/danv/1eF7n8fhqgGYHXF/QB5jxfxhj9eAA15kWr5/3GEZu6DUDW7FzlO318VeYINeJpi3vAwTJ0JqwGPAuQZn0ZoLnuWYPz/aZIpyBWPniaZXXyR6/z/VbH3/2fZjlceRmhK4g2LhwFyuk+idd8+ARryIs36//NM+/8vC9z/A13x+4G/bCJRAfowWLnjebL5/xfpNv9f5jr9B4XLAzfhIzcsmFkIar7vLcUEdMHS56CAjDX4/yRA7v9DR+7/92xYb9y0ZBElbICHqOujALmfDz1E/j9w4Pr/wJb9/yMnHrAhQH4jXs13bTnYHzpy7bxvx/7/ARDfs2M/f8+OYytIM9SAR7dt2JRxGnDHhi0IqOgvyOb79pz/b1uzxt6xZjW8Z8/55QGQ/wBoCNCAzlvWrMwYmm9aMqvcsWW/DtMMtPn6LSsWUaAGpju2HGtB4kCx/3ftOP4BDfbHavt9B67zQM0gfAXIL0B4jd0HqPkMkD4P9Mp1oKH1gycTAgCB9OyFFDyI8gAAAABJRU5ErkJggg==',
+            'https://1337x.to/search/%q/1/',
+            'td.header6:nth-child(3)> ul:nth-child(1) > li:nth-child(3) > a:nth-child(2) > i:nth-child(1)',
+            null,
+            null,
+            imdb.getTitle(true, true)
+			),
+	new Site(
+            'Torlock',
+            'Torlock',
+            'https://www.torlock.com/favicon-16x16.png',
+            'https://www.torlock.com/all/torrents/%q.html',
+            'h1:contains(tt)',
+            'h1:contains(Not Found)',
+            null,
+            imdb.getTitle(true, true)
+            ),
+	new Site(
+            'BtDig',
+            'BtDIG',
+            'https://i.imgur.com/iqwXx2z.png',
+            'https://btdig.com/search?q=%q',
+            null,
+            null,
+            null,
+            imdb.getTitle(true, true)
+            ),
     new Site(
-            'Zooqle',
-            'ZQ',
-            'http://s2.googleusercontent.com/s2/favicons?domain_url=zooqle.com',
-            'https://zooqle.com/search?q=%q+category%3AMovies',
-            '.table > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3) > ul:nth-child(1) > li:nth-child(2) > a:nth-child(1) > i:nth-child(1)',
-            'p.margin-top-10',
+            'BtDb',
+            'BtDB',
+            'http://s2.googleusercontent.com/s2/favicons?domain_url=btdb.to',
+            'https://btdb.to/q/%q/',
+            '#resultitems .resblock > .clickable',
+            '#About 0 results',
+            null,
+            imdb.getTitle(true, true)
+            ),
+	new Site(
+            'ETTV',
+            'ETTV',
+            'https://i.imgur.com/7fUyWN5.png',
+            'https://www.ettv.tv/torrents-search.php?search=%q&cat=0&incldead=1&lang=0',
+            '#resultitems .resblock > .clickable',
+            '#noresultextrasadvice',
+            null,
+            imdb.getTitle(true, true)
+            ),
+	new Site(
+            'GloTorrents',
+            'GT',
+            'https://i.imgur.com/pivRHeS.png',
+            'http://glodls.to/search_results.php?search=%q&incldead=Search',
+            'h1:contains(tt)',
+            'h1:contains(Nothing Found)',
             null,
             imdb.getTitle(true, true)
             ),	
@@ -1378,8 +1517,8 @@ var sites = [
             'Niigu',
             'https://i.imgur.com/lOVwjXc.png',
             'http://www.niigu.com/search?k=%q',
-            'h1:contains(tt)',
-            'h1:contains(Nothing Found)',
+            null,
+            null,
             null,
             imdb.getTitle(true, true)
             ),	
@@ -1389,7 +1528,7 @@ var sites = [
             'https://magnets.dissidence.ovh/favicon.ico',
             'https://magnets.dissidence.ovh/?q=%q',
             'h1:contains(tt)',
-            'h1:contains(Nothing Found)',
+            'h1:contains(No magnets found.)',
             null,
             imdb.getTitle(true, true)
             ),			
@@ -1406,8 +1545,8 @@ var sites = [
     new Site(
             'Torrent Project',
             'TP',
-            'https://torrentprojects.top/favicon.ico',
-            'https://torrentprojects.top/search.php?q=%q',
+            'https://torrentproject2.se/favicon.ico',
+            'https://torrentproject2.se/search.php?q=%q',
             'h1:contains(tt)',
             'h1:contains(Nothing Found)',
             null,
@@ -1417,9 +1556,9 @@ var sites = [
             'idope',
             'idope',
             'https://i.imgur.com/2ChJ12o.png',
-            'https://www.idope.cc/torrent-list/%q',
+            'https://www.idope.site/search/%q/',
             'h1:contains(tt)',
-            'h1:contains(Nothing Found)',
+            'h1:contains(No Results Found for)',
             null,
             imdb.getTitle(true, true)
             ),	
@@ -1432,7 +1571,7 @@ var sites = [
             'h1:contains(Nothing Found)',
             null,
             imdb.getTitle(true, true)
-            ),		
+            )		
 			
 ];
 
@@ -1490,7 +1629,7 @@ $(document).ready(function() {
     var site = sites[i];
     // Add it to the fetch list
     if (site.isEnabled()) {
-      $('#platypus-container').append('<a href="' + site.getSearchUrl() + '" target="platypusTab"><img id="' + site.getImageId() + '" class="smdb-search-icon" src="' + status.none.img + '" style="width: 18px; height: 18px; background: url(' + site.icon + '); background-repeat: no-repeat; margin: 3px;" alt="' + site.abbreviation + '" title="' + site.name + '"></a>');
+      $('#platypus-container').append('<a href="' + site.getSearchUrl() + '" target="platypusTab"><img id="' + site.getImageId() + '" class="smdb-search-icon" src="' + status.none.img + '" style="width: 20px; height: 20px; background: url(' + site.icon + '); background-repeat: no-repeat; margin: 3px;" alt="' + site.abbreviation + '" title="' + site.name + '"></a>');
     }
     // Add it to the settings list
     $('#smdb-settings').append('<div style="display: inline-block; width: 33px; margin: 11px;"><img class="smdb-settings-switch" target-gm-value="' + site.getGMValueName() + '" src="' + switchy.getImg(site.isEnabled()) + '" style="margin-right: 3px; cursor: pointer;"><img src="' + site.icon + '" alt="' + site.abbreviation + '" title="' + site.name + '"></div>');
